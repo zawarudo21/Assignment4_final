@@ -1,0 +1,24 @@
+Video link of recording :
+https://youtu.be/QBcR9mk9f2Q
+
+
+Main tutorials are linked as follows:
+1) https://developers.meta.com/horizon/documentation/unity/unity-isdk-quick-actions
+2) https://developers.meta.com/horizon/documentation/unity/unity-isdk-customize-hand-model
+3) https://developers.meta.com/horizon/documentation/unity/unity-isdk-concurrent-hands-controllers-examples-scene
+4) https://developers.meta.com/horizon/documentation/unity/unity-isdk-example-scenes
+5) https://developers.meta.com/horizon/documentation/unity/unity-isdk-hand-grab-interaction
+6) https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-hand-grab-interactions
+7) https://developers.meta.com/horizon/documentation/unity/unity-isdk-distance-hand-grab-interaction
+8) https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-distance-grab-interactions
+9) https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-ghost-reticles
+10) https://developers.meta.com/horizon/documentation/unity/unity-isdk-distance-grab-examples-scene
+11) https://developers.meta.com/horizon/documentation/unity/unity-isdk-create-snap-interactions
+12) https://developers.meta.com/horizon/documentation/unity/unity-ovroverlay
+13) https://developers.meta.com/horizon/documentation/unity/unity-isdk-canvas-integration
+
+14) https://www.youtube.com/watch?v=XtQMytORBmM&t=1411s
+15) https://www.youtube.com/watch?v=QRYGrCWumFw&t=258s
+16) https://www.youtube.com/watch?v=sGvvbibgsSk&t=79s
+
+Most of these deal with hand grabbables and distance grabbables, along with setting up camera rigs and such. Some are about ui related stuff, and I tried to implement dashing, so there are some of those.
